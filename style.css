@@ -1,0 +1,30 @@
+.recent .wrapper{
+    padding: 30px 30px 30px 50px;
+    margin: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.recent-title{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+    color: #1F2430;
+}
+.recent-title2{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #1F2430;
+    text-transform: uppercase;
+}
+.recent-title3{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #1F2430;
+}
